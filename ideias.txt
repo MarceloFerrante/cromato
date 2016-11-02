@@ -1,0 +1,10 @@
+Usar esse mancal com rolamento como acoplador da peça que gira e o eixo central:
+http://produto.mercadolivre.com.br/MLB-734372097-mancal-kfl08-para-eixo-8mm-com-rolamento-automaco-cnc-3d-_JM
+
+As dimensões do eixo que ele usa é uma barra lisa muito comum em projetos de impressora 3D, inclusive:
+http://produto.mercadolivre.com.br/MLB-704353649-barra-aco-trefilado-8mm-para-impressoras-3d-router-cnc-_JM
+
+Acho que seria bem prático que o protótipo fosse feito em "2D", usando chapas cortadas a laser, usando mdf, já que é barato e é a título de prototipagem mesmo.
+
+Além desses dois item, só tem mais o motor (desconsiderando o microcontrolador e driver). Tem esse "pulley" paramétrico que pode ser impresso para acoplar o movimento do motor e as engrenagens:
+http://www.thingiverse.com/thing:16627
